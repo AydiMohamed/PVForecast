@@ -1,0 +1,19 @@
+# Data Science & Visualization
+numpy
+pandas
+matplotlib
+seaborn
+
+# Classical Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning
+torch
+onnx
+
+# Jupyter Notebook Support for VS Code
+ipykernel
+
+# Additional index for PyTorch CUDA wheels
+--extra-index-url https://download.pytorch.org/whl/cu126
